@@ -42,10 +42,10 @@ const callGenerateEndpoint = async () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Summoning imaginary council</h1>
+            <h1>Summoning Steve Jobs for your own imaginary council</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Ask your life question to these great minds</h2>
+            <h2>Ask your life question to the great minds</h2>
           </div>
         </div>
         {/* Add prompt text box here */}
