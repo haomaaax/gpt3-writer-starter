@@ -95,7 +95,7 @@ const callGenerateEndpoint = async () => {
           </div>
         </a>
       </div>
-      <div className="badge-container grow">
+      <div className="badge-container-right grow">
         <a
           href="https://twitter.com/haomaaax"
           target="_blank"
