@@ -38,7 +38,7 @@ const callGenerateEndpoint = async () => {
   return (
     <div className="root">
       <Head>
-        <title>GPT-3 Writer | buildspace</title>
+        <title>Chat with Mastermind</title>
       </Head>
       <div className="container">
         <div className="header">
@@ -73,7 +73,7 @@ const callGenerateEndpoint = async () => {
             <div className="output">
               <div className="output-header-container">
                 <div className="output-header">
-                  <h3>Output</h3>
+                  <h3>Reply from Jobs</h3>
                 </div>
               </div>
               <div className="output-content">
@@ -103,7 +103,7 @@ const callGenerateEndpoint = async () => {
         >
           <div className="badge">
             <Image src={twitterLogo} alt="twitter logo" />
-            <p>build by maaax</p>
+            <p>built by maaax</p>
           </div>
         </a>
       </div>
